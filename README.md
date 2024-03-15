@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yagami
-- 👀 I’m interested in the hacking...
+- 👀 I’m interested in the hacking étique.
 - 🌱 I’m currently learning hacking..
 - 💞️ I’m looking to collaborate on python and javascript.
 - 📫 How to reach me:by Whatsapp +509 40325713.
